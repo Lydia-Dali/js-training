@@ -17,6 +17,7 @@ function multiply (number1, number2){
 		number1 = -number1
 		number2 = -number2
 	}
+	
 	while( i < number1){
 		total = total + number2
 		i++;
